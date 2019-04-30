@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Expression">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEEEAAAAAEIAAAAAACEAAAAYAAAgCAAAQgA=</HashCode>
+      <FileName>Expression.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Token">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAACAAAAAAAFAAAAAAAAAAAAACAoAAARBAA=</HashCode>
+      <FileName>Token.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TokenNode">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAEAAACAAAAAAAAAAAAAAACBAAAQAAQAAQA=</HashCode>
+      <FileName>TokenNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpressionConvertor">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAQAAAEAAAAAAAACAAAAAQAAAAACAAAAAIAQ=</HashCode>
+      <FileName>ExpressionConvertor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeCalculator">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAABAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>TreeCalculator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOHandler">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAYBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TaskManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception" Collapsed="true">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAABAAAAAABAAABAAAAAAAA=</HashCode>
+      <FileName>Exception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExceptionOutOfIndex" Collapsed="true">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ExceptionOutOfIndex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
